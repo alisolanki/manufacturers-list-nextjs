@@ -12,6 +12,11 @@
   --notion-header-height: 54px;
 }
 
+.notion-table {
+  width: 100vw !important;
+  max-width: 100vw !important;
+}
+
 .notion-frame {
   padding: 0;
 }
